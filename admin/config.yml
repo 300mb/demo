@@ -24,7 +24,6 @@ collections:
       - label: "Slug"
         name: "slug"
         widget: "hidden"
-        default: "{{slug}}"
       - label: "Description"
         name: "description"
         widget: "string"
